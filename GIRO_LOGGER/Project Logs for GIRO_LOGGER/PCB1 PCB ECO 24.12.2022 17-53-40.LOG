@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=R?-1
+Removed Pin From Net: NetName=NetQ?_3 Pin=R?-2
+Removed Pin From Net: NetName=NetLCD?_4 Pin=U?-15
+Added Component: Designator=BUZ?(BUZZER)
+Added Component: Designator=Q?(On_Semiconductor_318-08_IPC_B)
+Added Component: Designator=R?(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LCD?-5
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-2
+Added Pin To Net: NetName=NetLCD?_4 Pin=U?-1
+Added Pin To Net: NetName=NetBUZ?_2 Pin=BUZ?-2
+Added Pin To Net: NetName=NetBUZ?_2 Pin=Q?-3
+Added Net: Name=NetBUZ?_2
+Added Member To Class: ClassName=Logger Member=Component B? IR2101SPBF
+Added Member To Class: ClassName=Logger Member=Component BUZ? BUZZER
+Added Member To Class: ClassName=Logger Member=Component C? 1000pF
+Added Member To Class: ClassName=Logger Member=Component C? Cap_Vishay_MAL219390101E3_eec
+Added Member To Class: ClassName=Logger Member=Component C? Cap_Vishay_MAL219390101E3_eec
+Added Member To Class: ClassName=Logger Member=Component C? 1uF
+Added Member To Class: ClassName=Logger Member=Component D? 1N4148W-7-F
+Added Member To Class: ClassName=Logger Member=Component J? 691101710002
+Added Member To Class: ClassName=Logger Member=Component P? 61900811021
+Added Member To Class: ClassName=Logger Member=Component Q? IRF740PBF
+Added Member To Class: ClassName=Logger Member=Component Q? IRF740PBF
+Added Member To Class: ClassName=Logger Member=Component Q? IRF740PBF
+Added Member To Class: ClassName=Logger Member=Component Q? IRF740PBF
+Added Member To Class: ClassName=Logger Member=Component Q? IRF740PBF
+Added Member To Class: ClassName=Logger Member=Component Q? IRF740PBF
+Added Member To Class: ClassName=Logger Member=Component Q? IRF740PBF
+Added Member To Class: ClassName=Logger Member=Component Q? IRF740PBF
+Added Member To Class: ClassName=Logger Member=Component Q? SBC847BLT1G
+Added Member To Class: ClassName=Logger Member=Component Q? SBC847BLT1G
+Added Member To Class: ClassName=Logger Member=Component R? 1k
+Added Member To Class: ClassName=Logger Member=Component R? 10k
+Added Member To Class: ClassName=Logger Member=Component R? 1k
+Added Member To Class: ClassName=Logger Member=Component R? CRCW20101R00FKEF
+Added Member To Class: ClassName=Logger Member=Component R? 10k
+Added Member To Class: ClassName=Logger Member=Component R? 300
+Added Member To Class: ClassName=Logger Member=Component R? 10
+Added Member To Class: ClassName=Logger Member=Component R? 22
+Added Member To Class: ClassName=Logger Member=Component R? RC0603FR-074K99L
+Added Member To Class: ClassName=Logger Member=Component R? 1k
+Added Member To Class: ClassName=Logger Member=Component R? 10k
+Added Member To Class: ClassName=Logger Member=Component R? CRCW06030000Z0EA
+Added Member To Class: ClassName=Logger Member=Component R? 10
+Added Member To Class: ClassName=Logger Member=Component R? 10k
+Added Member To Class: ClassName=Logger Member=Component R? 10
+Added Member To Class: ClassName=Logger Member=Component R? 22
+Added Member To Class: ClassName=Logger Member=Component R? 22
+Added Member To Class: ClassName=Logger Member=Component R? 22
+Added Member To Class: ClassName=Logger Member=Component R? 22
+Added Member To Class: ClassName=Logger Member=Component R? CRCW06030000Z0EA
+Added Member To Class: ClassName=Logger Member=Component R? 10
+Added Member To Class: ClassName=Logger Member=Component R? 10k
+Added Member To Class: ClassName=Logger Member=Component TP? Test_Point_PCB
+Added Member To Class: ClassName=Logger Member=Component TP? Test_Point_PCB
+Added Member To Class: ClassName=Logger Member=Component TP? Test_Point_PCB
+Added Member To Class: ClassName=Logger Member=Component TP? Test_Point_PCB
+Added Member To Class: ClassName=Logger Member=Component TP? Test_Point_PCB
+Added Member To Class: ClassName=Logger Member=Component TP? Test_Point_PCB
+Added Member To Class: ClassName=Logger Member=Component TP? Test_Point_PCB
+Added Member To Class: ClassName=Logger Member=Component TP? Test_Point_PCB
+Added Member To Class: ClassName=Logger Member=Component TP? Test_Point_PCB
+Added Member To Class: ClassName=Logger Member=Component U? STM32F405RGT6
+Added Member To Class: ClassName=Logger Member=Component U? MC74HC595ADG
+Added Member To Class: ClassName=Logger Member=Component U? LT1117CST-5#PBF
+Added Member To Class: ClassName=Logger Member=Component U? MC74HC595ADG
+Added Member To Class: ClassName=Logger Member=Component U? STM32F405RGT6
+Added Member To Class: ClassName=Logger Member=Component U? TL494ID
+Added Member To Class: ClassName=Logger Member=Component VT? PMBTA06
+Added Member To Class: ClassName=Logger Member=Component VT? MMBT2907
+Added Member To Class: ClassName=Logger Member=Component VT? PMBTA06
+Added Member To Class: ClassName=Logger Member=Component VT? MMBT2907
