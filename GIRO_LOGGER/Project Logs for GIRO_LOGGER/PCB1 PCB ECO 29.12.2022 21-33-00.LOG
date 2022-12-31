@@ -1,0 +1,147 @@
+Added Component: Designator=C6(KEMET_C0805C-DN_IPC_C)
+Added Component: Designator=C7(Nichicon_0_MFG)
+Added Component: Designator=C8(Nichicon_0_MFG)
+Added Component: Designator=D3(Vishay_SS16-E3-61T_0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/46fb9ccadf7e3052/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/88746/ss12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Average Rectified (Io)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Reverse Leakage @ Vr"; Value = "200µA @ 60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "Diode Schottky 60V 1A Surface Mount DO-214AC (SMA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "SS16-E3/61TGICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/46fb9ccadf7e3052/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "625-SS16-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SS16-E3/61T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.180579591464"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SS16-E3/61TGICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "625-SS16-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-65°C to +150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - DC Reverse (Vr) (Max)"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Max) @ If"; Value = "750mV @ 1A"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MC34063ABD-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mc34063abd-tr/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00001232.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MC34063ABD-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-MC34063ABD-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MC34063ABD-TR?qs=PGXP4M47uW4YbbaNPuFQGA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L3(WE-PD2-L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/7445720.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 1, Oct-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "100 AµH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMD Inductor, 2-Leads, Body 22.0 x 15.0 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WE-PD4-XL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "7445720"; VariantName = "[No Variations]"
+Added Component: Designator=R31(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R32(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R33(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T1(Transformer)
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "TRANSFORMER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WURTH ELEKTRONIK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "750343584"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolCreator"; Value = "x0199378"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2017-05-10"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+5 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=IC2-4
+Added Pin To Net: NetName=+5 Pin=L3-1
+Added Pin To Net: NetName=+5 Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetT1_10 Pin=T1-10
+Added Pin To Net: NetName=NetR8_1 Pin=U3-17
+Added Pin To Net: NetName=NetR3_2 Pin=U3-20
+Added Pin To Net: NetName=+3,3V Pin=SW1-1
+Added Pin To Net: NetName=+3,3V Pin=SW1-2
+Added Pin To Net: NetName=+3,3V Pin=SW2-3
+Added Pin To Net: NetName=+3,3V Pin=SW2-4
+Added Pin To Net: NetName=+3,3V Pin=SW3-1
+Added Pin To Net: NetName=+3,3V Pin=SW3-2
+Added Pin To Net: NetName=+3,3V Pin=SW4-3
+Added Pin To Net: NetName=+3,3V Pin=SW4-4
+Added Pin To Net: NetName=+3,3V Pin=SW5-1
+Added Pin To Net: NetName=+3,3V Pin=SW5-2
+Added Pin To Net: NetName=+3,3V Pin=SW6-3
+Added Pin To Net: NetName=+3,3V Pin=SW6-4
+Added Net: Name=+3,3V
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=IC2-3
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=IC2-6
+Added Pin To Net: NetName=NetC7_2 Pin=R31-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=IC2-2
+Added Pin To Net: NetName=NetD3_1 Pin=L3-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=IC2-5
+Added Pin To Net: NetName=NetD3_2 Pin=R32-2
+Added Pin To Net: NetName=NetD3_2 Pin=R33-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-7
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-8
+Added Pin To Net: NetName=NetIC2_1 Pin=R31-1
+Added Net: Name=NetIC2_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=SW1-3
+Added Pin To Net: NetName=NetR?_2 Pin=SW1-4
+Added Pin To Net: NetName=NetR?_2 Pin=SW3-3
+Added Pin To Net: NetName=NetR?_2 Pin=SW3-4
+Added Pin To Net: NetName=NetR?_2 Pin=SW5-3
+Added Pin To Net: NetName=NetR?_2 Pin=SW5-4
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Logger Member=Component C6 470pF
+Added Member To Class: ClassName=Logger Member=Component C7 470uF
+Added Member To Class: ClassName=Logger Member=Component C8 470uF
+Added Member To Class: ClassName=Logger Member=Component D3 Diode_Vishay_SS16-E3-61T_eec
+Added Member To Class: ClassName=Logger Member=Component IC2 MC34063ABD-TR
+Added Member To Class: ClassName=Logger Member=Component L3 7445720
+Added Member To Class: ClassName=Logger Member=Component R31 0.33
+Added Member To Class: ClassName=Logger Member=Component R32 3.6k
+Added Member To Class: ClassName=Logger Member=Component R33 1.2k
+Added Member To Class: ClassName=Logger Member=Component R? 10k
+Added Member To Class: ClassName=Logger Member=Component R? 10k
+Added Member To Class: ClassName=Logger Member=Component R? 10k
+Added Member To Class: ClassName=Logger Member=Component T1 750343584
