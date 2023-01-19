@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=NetQ10_1 Pin=R19-1
+Added Component: Designator=R?(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "100k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T?(Transformer)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/750311457.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EP13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "750311457"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ui"; Value = "36V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q10-3
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetQ10_1 Pin=R?-1
+Added Pin To Net: NetName=NetC3_2 Pin=T?-1
+Added Pin To Net: NetName=+12 Pin=T?-2
+Added Pin To Net: NetName=+12 Pin=T?-3
+Added Pin To Net: NetName=NetQ10_2 Pin=T?-4
+Added Pin To Net: NetName=NetQ11_3 Pin=Q11-3
+Added Net: Name=NetQ11_3
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Logger Member=Component C? TAJR225K016RNJ
+Added Member To Class: ClassName=Logger Member=Component C? 2.2uF
+Added Member To Class: ClassName=Logger Member=Component C? TAJR225K016RNJ
+Added Member To Class: ClassName=Logger Member=Component C? TAJR225K016RNJ
+Added Member To Class: ClassName=Logger Member=Component C? 470pF
+Added Member To Class: ClassName=Logger Member=Component R? 22
+Added Member To Class: ClassName=Logger Member=Component R? 22
+Added Member To Class: ClassName=Logger Member=Component R? 22
+Added Member To Class: ClassName=Logger Member=Component R? 10k
+Added Member To Class: ClassName=Logger Member=Component R? 22
+Added Member To Class: ClassName=Logger Member=Component T? 750311457
