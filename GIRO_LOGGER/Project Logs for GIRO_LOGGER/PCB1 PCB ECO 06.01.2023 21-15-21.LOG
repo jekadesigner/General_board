@@ -1,9 +1,0 @@
-Change Component Designator: OldDesignator=BT? NewDesignator=BT1
-Added Component: Designator=J3(20_pin_connector)
-Added Pin To Net: NetName=GND Pin=BT1-1
-Added Pin To Net: NetName=NetC7_2 Pin=J3-1
-Added Pin To Net: NetName=GND Pin=J3-20
-Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2
-Added Pin To Net: NetName=NetBT1_2 Pin=U3-1
-Added Net: Name=NetBT1_2
-Added Member To Class: ClassName=Logger Member=Component J3 20_pin_connector
