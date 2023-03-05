@@ -908,23 +908,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VBIENOVB
 
 [Document52]
-DocumentPath=Libs\Transformer.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PIHRLMVW
-
-[Document53]
 DocumentPath=Libs\74HC595\IC_On_Semiconductor_MC74HC595ADG_eec_IPC_C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -941,7 +924,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMIOETEI
 
-[Document54]
+[Document53]
 DocumentPath=Libs\1N4148W-S\Diode_Diodes_Inc._1N4148WSF-7_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -958,7 +941,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJXUSPLS
 
-[Document55]
+[Document54]
 DocumentPath=Libs\74HC595\IC_On_Semiconductor_MC74HC595ADG_eec_IPC_A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -975,7 +958,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MGMPVVUV
 
-[Document56]
+[Document55]
 DocumentPath=Libs\BC847\Trans_On_Semiconductor_SBC847BLT1G_eec_IPC_C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -992,7 +975,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUVLOTDI
 
-[Document57]
+[Document56]
 DocumentPath=Libs\Shotki SS16\Diode_Vishay_SS16-E3-61T_eec_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1009,7 +992,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFCATUPP
 
-[Document58]
+[Document57]
 DocumentPath=Libs\220uF 400V\Cap_Vishay_MAL219390101E3_eec_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1026,7 +1009,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWPOGWFQ
 
-[Document59]
+[Document58]
 DocumentPath=Libs\BC847\Trans_On_Semiconductor_SBC847BLT1G_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1043,7 +1026,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PFJUHPOM
 
-[Document60]
+[Document59]
 DocumentPath=Libs\ul_LT1117CST-5-PBF\AltiumDesigner\2022-10-14_06-38-59\LT1117CST-5&hash_PBF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1060,7 +1043,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YJYEIHWH
 
-[Document61]
+[Document60]
 DocumentPath=Libs\ul_STM32F405RGT6\AltiumDesigner\2022-10-13_11-48-23\STM32F405RGT6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1077,7 +1060,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFBPMRXL
 
-[Document62]
+[Document61]
 DocumentPath=Logger.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -1094,7 +1077,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IFQCEVDX
 
-[Document63]
+[Document62]
 DocumentPath=Libs\BC847\Trans_On_Semiconductor_SBC847BLT1G_eec_IPC_B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1111,7 +1094,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXEICALX
 
-[Document64]
+[Document63]
 DocumentPath=Libs\BC847\Trans_On_Semiconductor_SBC847BLT1G_eec_IPC_A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1128,7 +1111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUAEFBCY
 
-[Document65]
+[Document64]
 DocumentPath=Libs\ul_STM32F405RGT6\AltiumDesigner\2022-10-13_11-48-23\STM32F405RGT6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1145,7 +1128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PMWLKNPM
 
-[Document66]
+[Document65]
 DocumentPath=Libs\LCD20X4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1162,7 +1145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBRLAZXG
 
-[Document67]
+[Document66]
 DocumentPath=Libs\Cap_100uF_25V\parts\Cap_Nichicon_UWX1E101MCL1GB_eec_MFG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1179,7 +1162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMGVDTWN
 
-[Document68]
+[Document67]
 DocumentPath=Libs\LCD20x4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1196,7 +1179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMBYTPEH
 
-[Document69]
+[Document68]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1213,7 +1196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOSOJQVY
 
-[Document70]
+[Document69]
 DocumentPath=Libs\CAP_330uF_450V.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1230,7 +1213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQBBVDFF
 
-[Document71]
+[Document70]
 DocumentPath=Libs\Ind_Wurth Electronics_744775222\parts\Wurth_Electronics_744775222_0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1247,24 +1230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEGXLFSW
 
-[Document72]
-DocumentPath=Libs\Transformer.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MMWUSJYN
-
-[Document73]
+[Document71]
 DocumentPath=Inverter.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -1281,7 +1247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZLHHOEIO
 
-[Document74]
+[Document72]
 DocumentPath=INVERTER.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1298,7 +1264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UICTWFAD
 
-[Document75]
+[Document73]
 DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -1315,7 +1281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZUDYUNUN
 
-[Document76]
+[Document74]
 DocumentPath=Libs\21700_Bat.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1332,7 +1298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZNKOMMJU
 
-[Document77]
+[Document75]
 DocumentPath=Libs\21700_BAT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1349,7 +1315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ESLUSCOU
 
-[Document78]
+[Document76]
 DocumentPath=Batarey.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1366,7 +1332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOMJLLIK
 
-[Document79]
+[Document77]
 DocumentPath=Batarey.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1383,7 +1349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CATWBDME
 
-[Document80]
+[Document78]
 DocumentPath=Libs\Batarey_connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1400,7 +1366,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPSNQGKA
 
-[Document81]
+[Document79]
 DocumentPath=Libs\Batarey_connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1417,7 +1383,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUJJWMXT
 
-[Document82]
+[Document80]
 DocumentPath=Libs\MOSFET_BEND_rad.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1434,7 +1400,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTDFVJXT
 
-[Document83]
+[Document81]
 DocumentPath=Libs\BD139_TO-126_BEND.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1451,7 +1417,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSYFNGVB
 
-[Document84]
+[Document82]
 DocumentPath=Libs\BD140.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1468,7 +1434,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWSCUHSJ
 
-[Document85]
+[Document83]
 DocumentPath=Libs\BD140_TO-126_BEND.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1485,7 +1451,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLGTYXTW
 
-[Document86]
+[Document84]
 DocumentPath=Libs\TEST_POINT_CONN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1501,6 +1467,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIQMCFUU
+
+[Document85]
+DocumentPath=Libs\HY2213.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YEDQAICW
+
+[Document86]
+DocumentPath=Libs\HY2213.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MKXMKXEO
 
 [Configuration1]
 Name=Sources
