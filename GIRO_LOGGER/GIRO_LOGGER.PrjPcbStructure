@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=Batarey.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Batarey.SchDoc|FileName=INV.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=Batarey.SchDoc|FileName=Inverter.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Batarey.SchDoc|FileName=Logger.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=Batarey.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=3
