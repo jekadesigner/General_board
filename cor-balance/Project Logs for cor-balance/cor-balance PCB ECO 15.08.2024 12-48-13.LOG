@@ -1,5 +1,0 @@
-Added Component: Designator=DD?(MPU6050)
-Added Pin To Net: NetName=SDA Pin=DD?-5
-Added Pin To Net: NetName=SCL Pin=DD?-6
-Added Pin To Net: NetName=GND Pin=DD?-7
-Added Pin To Net: NetName=+5 Pin=DD?-8
