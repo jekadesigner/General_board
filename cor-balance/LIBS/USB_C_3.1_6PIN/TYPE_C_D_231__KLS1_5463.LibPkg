@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Type-C-D-231__KLS1-5463.SchLib
+DocumentPath=TYPE_C_D_231__KLS1_5463.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PAEPDQLE
 
 [Document2]
-DocumentPath=Type-C-D-231__KLS1-5463.PcbLib
+DocumentPath=TYPE_C_D_231__KLS1_5463.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
