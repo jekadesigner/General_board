@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=X? NewDesignator=X5
+Add Component: Footprint Not Found SOT23-6
+Add Pin To Net: Unknown Pin: Pin DA2-1
+Add Pin To Net: Unknown Pin: Pin DA2-2
+Add Pin To Net: Unknown Pin: Pin DA2-3
+Add Pin To Net: Unknown Pin: Pin DA2-5
+PCB-ECO: Change Pad Pin/Pkg Length: Old=180mm New=0mm

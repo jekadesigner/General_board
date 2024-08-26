@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C14 Old Footprint=CAP-0805 New Footprint=CAP-0402
+Change Component Footprint: Designator=R13 Old Footprint=RES-0201 New Footprint=RES-0402
+Add Component: Footprint Not Found SOT23-6
+Add Pin To Net: Unknown Pin: Pin DA2-1
+Add Pin To Net: Unknown Pin: Pin DA2-2
+Add Pin To Net: Unknown Pin: Pin DA2-3
+Add Pin To Net: Unknown Pin: Pin DA2-5

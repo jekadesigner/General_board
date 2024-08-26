@@ -1,0 +1,3 @@
+Added Component: Designator=J1(Jumper_2.54)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=ESP_EN Pin=J1-2

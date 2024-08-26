@@ -1,0 +1,5 @@
+Added Component: Designator=DA2(SOT23-6)
+Added Pin To Net: NetName=NetDA2_1 Pin=DA2-1
+Added Pin To Net: NetName=GND Pin=DA2-2
+Added Pin To Net: NetName=NetDA2_3 Pin=DA2-3
+Added Pin To Net: NetName=NetC26_1 Pin=DA2-5
