@@ -1,5 +1,0 @@
-Added Component: Designator=X5(CONN-PLS-4-2.54mm)
-Added Pin To Net: NetName=3V3 Pin=X5-1
-Added Pin To Net: NetName=RX_0 Pin=X5-2
-Added Pin To Net: NetName=TX_0 Pin=X5-3
-Added Pin To Net: NetName=GND Pin=X5-4
