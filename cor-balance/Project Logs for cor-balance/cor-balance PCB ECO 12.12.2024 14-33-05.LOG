@@ -1,0 +1,482 @@
+Removed Pin From Net: NetName=+5 Pin=+VBR-1
+Removed Pin From Net: NetName=Net-VBR_1 Pin=-VBR-1
+Removed Pin From Net: NetName=3V3 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=BAT_GND Pin=C4-1
+Removed Pin From Net: NetName=NetC4_2 Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=3V3 Pin=C5-2
+Removed Pin From Net: NetName=ESP_EN Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=3V3 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=3V3 Pin=C8-2
+Removed Pin From Net: NetName=NetA1_1 Pin=C10-1
+Removed Pin From Net: NetName=NetA1_1 Pin=C11-1
+Removed Pin From Net: NetName=NetC11_2 Pin=C11-2
+Removed Pin From Net: NetName=3V3 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=NetC11_2 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=3V3 Pin=C14-2
+Removed Pin From Net: NetName=3V3 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=3V3 Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=3V3 Pin=C17-2
+Removed Pin From Net: NetName=NetC18_2 Pin=C18-2
+Removed Pin From Net: NetName=VBUS Pin=C19-2
+Removed Pin From Net: NetName=NetC20_2 Pin=C20-2
+Removed Pin From Net: NetName=NetC21_1 Pin=C21-1
+Removed Pin From Net: NetName=NetC21_2 Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=BAT Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=REGN Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=SYS Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=SYS Pin=C25-2
+Removed Pin From Net: NetName=SYS Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=SYS Pin=C27-1
+Removed Pin From Net: NetName=3V3 Pin=C28-1
+Removed Pin From Net: NetName=+5 Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=+5 Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=CONN5-1
+Removed Pin From Net: NetName=VBUS Pin=CONN5-2
+Removed Pin From Net: NetName=NetCONN5_4 Pin=CONN5-4
+Removed Pin From Net: NetName=D- Pin=CONN5-5
+Removed Pin From Net: NetName=D+ Pin=CONN5-6
+Removed Pin From Net: NetName=D- Pin=CONN5-7
+Removed Pin From Net: NetName=D+ Pin=CONN5-8
+Removed Pin From Net: NetName=NetCONN5_10 Pin=CONN5-10
+Removed Pin From Net: NetName=VBUS Pin=CONN5-11
+Removed Pin From Net: NetName=GND Pin=CONN5-12
+Removed Pin From Net: NetName=GND Pin=CONN5-12
+Removed Pin From Net: NetName=GND Pin=CONN5-12
+Removed Pin From Net: NetName=GND Pin=CONN5-12
+Removed Pin From Net: NetName=GND Pin=CONN5-12
+Removed Pin From Net: NetName=SDA Pin=DD2-5
+Removed Pin From Net: NetName=SCL Pin=DD2-6
+Removed Pin From Net: NetName=GND Pin=DD2-7
+Removed Pin From Net: NetName=+5 Pin=DD2-8
+Removed Pin From Net: NetName=3V3 Pin=DD3-2
+Removed Pin From Net: NetName=TX_0 Pin=DD3-3
+Removed Pin From Net: NetName=RX_0 Pin=DD3-4
+Removed Pin From Net: NetName=GND Pin=DD3-5
+Removed Pin From Net: NetName=GND Pin=DD3-8
+Removed Pin From Net: NetName=3V3 Pin=DD3-11
+Removed Pin From Net: NetName=NetC4_2 Pin=DD4-1
+Removed Pin From Net: NetName=BAT_GND Pin=DD4-2
+Removed Pin From Net: NetName=BAT_GND Pin=DD4-3
+Removed Pin From Net: NetName=GND Pin=DD4-4
+Removed Pin From Net: NetName=GND Pin=DD4-5
+Removed Pin From Net: NetName=D1+ Pin=DD6-1
+Removed Pin From Net: NetName=D1- Pin=DD6-2
+Removed Pin From Net: NetName=D2+ Pin=DD6-3
+Removed Pin From Net: NetName=D2- Pin=DD6-4
+Removed Pin From Net: NetName=D- Pin=DD6-7
+Removed Pin From Net: NetName=D+ Pin=DD6-8
+Removed Pin From Net: NetName=USB_SET Pin=DD6-9
+Removed Pin From Net: NetName=3V3 Pin=DD6-10
+Removed Pin From Net: NetName=NetC11_2 Pin=DD7-1
+Removed Pin From Net: NetName=3V3 Pin=DD7-2
+Removed Pin From Net: NetName=3V3 Pin=DD7-3
+Removed Pin From Net: NetName=GPIO_0 Pin=DD7-4
+Removed Pin From Net: NetName=GPIO_1 Pin=DD7-5
+Removed Pin From Net: NetName=LED_R Pin=DD7-6
+Removed Pin From Net: NetName=ESP_EN Pin=DD7-7
+Removed Pin From Net: NetName=LED_G Pin=DD7-8
+Removed Pin From Net: NetName=LED_B Pin=DD7-9
+Removed Pin From Net: NetName=GPIO_5 Pin=DD7-10
+Removed Pin From Net: NetName=3V3 Pin=DD7-11
+Removed Pin From Net: NetName=GPIO_6 Pin=DD7-12
+Removed Pin From Net: NetName=GPIO_7 Pin=DD7-13
+Removed Pin From Net: NetName=GPIO_8 Pin=DD7-14
+Removed Pin From Net: NetName=RX_0 Pin=DD7-15
+Removed Pin From Net: NetName=TX_0 Pin=DD7-16
+Removed Pin From Net: NetName=3V3 Pin=DD7-17
+Removed Pin From Net: NetName=GPIO_11 Pin=DD7-18
+Removed Pin From Net: NetName=GPIO_12 Pin=DD7-19
+Removed Pin From Net: NetName=GPIO_13 Pin=DD7-20
+Removed Pin From Net: NetName=GPIO_14 Pin=DD7-21
+Removed Pin From Net: NetName=GPIO_15 Pin=DD7-22
+Removed Pin From Net: NetName=GPIO_16 Pin=DD7-23
+Removed Pin From Net: NetName=GPIO_17 Pin=DD7-24
+Removed Pin From Net: NetName=D2- Pin=DD7-25
+Removed Pin From Net: NetName=D2+ Pin=DD7-26
+Removed Pin From Net: NetName=GPIO_20 Pin=DD7-27
+Removed Pin From Net: NetName=GPIO_21 Pin=DD7-28
+Removed Pin From Net: NetName=NetC18_2 Pin=DD7-29
+Removed Pin From Net: NetName=NetC20_2 Pin=DD7-30
+Removed Pin From Net: NetName=3V3 Pin=DD7-31
+Removed Pin From Net: NetName=3V3 Pin=DD7-32
+Removed Pin From Net: NetName=GND Pin=DD7-33
+Removed Pin From Net: NetName=VBUS Pin=DD8-1
+Removed Pin From Net: NetName=D1+ Pin=DD8-2
+Removed Pin From Net: NetName=D1- Pin=DD8-3
+Removed Pin From Net: NetName=STAT Pin=DD8-4
+Removed Pin From Net: NetName=SCL Pin=DD8-5
+Removed Pin From Net: NetName=SDA Pin=DD8-6
+Removed Pin From Net: NetName=GND Pin=DD8-9
+Removed Pin From Net: NetName=BAT Pin=DD8-13
+Removed Pin From Net: NetName=BAT Pin=DD8-14
+Removed Pin From Net: NetName=SYS Pin=DD8-15
+Removed Pin From Net: NetName=SYS Pin=DD8-16
+Removed Pin From Net: NetName=GND Pin=DD8-17
+Removed Pin From Net: NetName=GND Pin=DD8-18
+Removed Pin From Net: NetName=NetC21_1 Pin=DD8-19
+Removed Pin From Net: NetName=NetC21_1 Pin=DD8-20
+Removed Pin From Net: NetName=NetC21_2 Pin=DD8-21
+Removed Pin From Net: NetName=REGN Pin=DD8-22
+Removed Pin From Net: NetName=NetC21_1 Pin=L1-1
+Removed Pin From Net: NetName=NetC18_2 Pin=Q1-1
+Removed Pin From Net: NetName=BAT Pin=R1-1
+Removed Pin From Net: NetName=NetC4_2 Pin=R1-2
+Removed Pin From Net: NetName=LED_G Pin=R2-2
+Removed Pin From Net: NetName=LED_R Pin=R3-2
+Removed Pin From Net: NetName=LED_B Pin=R4-2
+Removed Pin From Net: NetName=SDA Pin=R5-1
+Removed Pin From Net: NetName=3V3 Pin=R5-2
+Removed Pin From Net: NetName=SCL Pin=R6-1
+Removed Pin From Net: NetName=3V3 Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=ESP_EN Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=NetCONN5_4 Pin=R11-2
+Removed Pin From Net: NetName=3V3 Pin=R12-1
+Removed Pin From Net: NetName=LED_R Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=NetCONN5_10 Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=REGN Pin=R15-2
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=STAT Pin=R17-1
+Removed Pin From Net: NetName=3V3 Pin=R17-2
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=NetDA2_3 Pin=R19-1
+Removed Pin From Net: NetName=+5 Pin=R19-2
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=NetDA2_3 Pin=R20-2
+Removed Pin From Net: NetName=GND Pin=R28-2
+Removed Pin From Net: NetName=+5 Pin=VD2-1
+Removed Pin From Net: NetName=NetDA2_1 Pin=VD2-2
+Removed Pin From Net: NetName=GND Pin=VT7-2
+Removed Pin From Net: NetName=Net-VBR_1 Pin=VT7-3
+Removed Pin From Net: NetName=+5 Pin=X1-1
+Removed Pin From Net: NetName=RED Pin=X1-2
+Removed Pin From Net: NetName=GREEN Pin=X1-3
+Removed Pin From Net: NetName=BLUE Pin=X1-4
+Removed Pin From Net: NetName=+5 Pin=X2-1
+Removed Pin From Net: NetName=RED_1 Pin=X2-2
+Removed Pin From Net: NetName=GREEN_1 Pin=X2-3
+Removed Pin From Net: NetName=BLUE_1 Pin=X2-4
+Removed Pin From Net: NetName=BTN Pin=X3-1
+Removed Pin From Net: NetName=GND Pin=X3-2
+Removed Pin From Net: NetName=BAT Pin=X4-1
+Removed Pin From Net: NetName=BAT_GND Pin=X4-2
+Change Component Footprint: Designator=C10 Old Footprint=CAP-0402 New Footprint=CAP-0603
+Change Component Footprint: Designator=C11 Old Footprint=CAP-0402 New Footprint=CAP-0603
+Change Component Footprint: Designator=C18 Old Footprint=CAP-0402 New Footprint=CAP-0805
+Change Component Footprint: Designator=C14 Old Footprint=CAP-0402 New Footprint=CAP-1206
+Change Component Footprint: Designator=C20 Old Footprint=CAP-0402 New Footprint=CAP-1206
+Change Component Footprint: Designator=C5 Old Footprint=CAP-0603 New Footprint=CAP-0402
+Change Component Footprint: Designator=C6 Old Footprint=CAP-0603 New Footprint=CAP-0402
+Change Component Footprint: Designator=C8 Old Footprint=CAP-0603 New Footprint=CAP-0402
+Change Component Footprint: Designator=C9 Old Footprint=CAP-0603 New Footprint=CAP-0402
+Change Component Footprint: Designator=C15 Old Footprint=CAP-0603 New Footprint=CAP-0402
+Change Component Footprint: Designator=C17 Old Footprint=CAP-0603 New Footprint=CAP-1206
+Change Component Footprint: Designator=C4 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Footprint: Designator=C27 Old Footprint=CAP-0805 New Footprint=CAP-1206
+Change Component Footprint: Designator=C28 Old Footprint=CAP-0805 New Footprint=CAP-1206
+Change Component Footprint: Designator=C26 Old Footprint=CAP-1206 New Footprint=CAP-0603
+Change Component Footprint: Designator=C22 Old Footprint=CAP-1206 New Footprint=CAP-0805
+Change Component Footprint: Designator=C25 Old Footprint=CAP-1206 New Footprint=CAP-0805
+Change Component Footprint: Designator=X3 Old Footprint=CONN-PLS-2-2.54mm New Footprint=CONN-PLS-4-2.54mm
+Change Component Footprint: Designator=X4 Old Footprint=CONN-PLS-2-2.54mm New Footprint=CONN-PLS-4-2.54mm
+Change Component Footprint: Designator=X1 Old Footprint=CONN-PLS-4-2.54mm New Footprint=CONN-PLS-2-2.54mm
+Change Component Footprint: Designator=X2 Old Footprint=CONN-PLS-4-2.54mm New Footprint=CONN-PLS-2-2.54mm
+Change Component Footprint: Designator=DD3 Old Footprint=JY31N New Footprint=WQFN-24
+Change Component Footprint: Designator=DD2 Old Footprint=MPU6050 New Footprint=QFN-32 (5x5)
+Change Component Footprint: Designator=R13 Old Footprint=RES-0402 New Footprint=RES-0603
+Change Component Footprint: Designator=R12 Old Footprint=RES-0603 New Footprint=RES-0805
+Change Component Footprint: Designator=R15 Old Footprint=RES-0603 New Footprint=RES-0805
+Change Component Footprint: Designator=R16 Old Footprint=RES-0603 New Footprint=RES-0805
+Change Component Footprint: Designator=R17 Old Footprint=RES-0603 New Footprint=RES-0805
+Change Component Footprint: Designator=R18 Old Footprint=RES-0603 New Footprint=RES-0805
+Change Component Footprint: Designator=R19 Old Footprint=RES-0603 New Footprint=RES-0805
+Change Component Footprint: Designator=R20 Old Footprint=RES-0603 New Footprint=RES-0805
+Change Component Footprint: Designator=R4 Old Footprint=RES-0805 New Footprint=RES-0402
+Change Component Footprint: Designator=R1 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R2 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R3 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R7 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R8 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=R9 Old Footprint=RES-0805 New Footprint=RES-0603
+Change Component Footprint: Designator=DD6 Old Footprint=TS3USB221 New Footprint=XB7608A
+Change Component Footprint: Designator=DD4 Old Footprint=XB7608A New Footprint=MPU6050
+Change Component Comment : Designator=C3 Old Comment=0.1uF New Comment=1uF
+Change Component Comment : Designator=R1 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=C8 Old Comment=1uF New Comment=10nF
+Change Component Comment : Designator=C27 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C28 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C16 Old Comment=1uF New Comment=47nF
+Change Component Comment : Designator=C23 Old Comment=4.7uF New Comment=1uF
+Change Component Comment : Designator=R12 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R13 Old Comment=10K New Comment=75K
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=260
+Change Component Comment : Designator=R15 Old Comment=10K New Comment=330
+Change Component Comment : Designator=R16 Old Comment=10K New Comment=330
+Change Component Comment : Designator=R17 Old Comment=10K New Comment=330
+Change Component Comment : Designator=C11 Old Comment=10nF New Comment=1uF
+Change Component Comment : Designator=C17 Old Comment=10nF New Comment=10uF
+Change Component Comment : Designator=C13 Old Comment=10nF New Comment=15pF
+Change Component Comment : Designator=C10 Old Comment=10nF New Comment=100nF
+Change Component Comment : Designator=C25 Old Comment=10uF New Comment=1uF
+Change Component Comment : Designator=C7 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C22 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C26 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=C18 Old Comment=15pF New Comment=4.7uF
+Change Component Comment : Designator=C20 Old Comment=15pF New Comment=10uF
+Change Component Comment : Designator=C21 Old Comment=47nF New Comment=0.1uF
+Change Component Comment : Designator=R19 Old Comment=75K New Comment=10K
+Change Component Comment : Designator=C5 Old Comment=100nF New Comment=10nF
+Change Component Comment : Designator=C12 Old Comment=100nF New Comment=10nF
+Change Component Comment : Designator=C14 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C15 Old Comment=100nF New Comment=15pF
+Change Component Comment : Designator=R18 Old Comment=260 New Comment=10K
+Change Component Comment : Designator=R2 Old Comment=330 New Comment=10K
+Change Component Comment : Designator=R3 Old Comment=330 New Comment=10K
+Change Component Comment : Designator=R4 Old Comment=330 New Comment=10K
+Change Component Comment : Designator=X3 Old Comment=CONN-2-PIN New Comment=CONN-4-PIN
+Change Component Comment : Designator=X4 Old Comment=CONN-2-PIN New Comment=CONN-4-PIN
+Change Component Comment : Designator=X1 Old Comment=CONN-4-PIN New Comment=CONN-2-PIN
+Change Component Comment : Designator=X2 Old Comment=CONN-4-PIN New Comment=CONN-2-PIN
+Change Component Comment : Designator=DD3 Old Comment=JY31N New Comment=BQ25895
+Change Component Comment : Designator=DD2 Old Comment=MPU6050 New Comment=ESP32_C3
+Change Component Comment : Designator=DD6 Old Comment=TS3USB221 New Comment=XB7608A
+Change Component Comment : Designator=DD4 Old Comment=XB7608A New Comment=MPU6050
+Added Component: Designator=C1(CAP-0603)
+Added Component: Designator=C2(CAP-0603)
+Added Component: Designator=CONN1(TYPE-C-D-231__KLS1-5463)
+Added Component: Designator=DD1(TS3USB221)
+Added Component: Designator=DD5(JY31N)
+Added Component: Designator=VD1(DO-214AC, SMA)
+Added Pin To Net: NetName=ESP_EN Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Added Pin To Net: NetName=NetA1_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetA1_1 Pin=C6-1
+Added Pin To Net: NetName=NetC21_2 Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetC21_2 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=3V3 Pin=C10-1
+Added Pin To Net: NetName=3V3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=3V3 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NetC21_1 Pin=C13-2
+Added Pin To Net: NetName=VBUS Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=NetC20_2 Pin=C15-2
+Added Pin To Net: NetName=NetC18_2 Pin=C16-1
+Added Pin To Net: NetName=NetC11_2 Pin=C16-2
+Added Pin To Net: NetName=BAT Pin=C17-2
+Added Pin To Net: NetName=REGN Pin=C18-2
+Added Pin To Net: NetName=SYS Pin=C19-2
+Added Pin To Net: NetName=SYS Pin=C20-2
+Added Pin To Net: NetName=3V3 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=BAT_GND Pin=C22-1
+Added Pin To Net: NetName=NetC4_2 Pin=C22-2
+Added Pin To Net: NetName=SYS Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=SYS Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=3V3 Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=3V3 Pin=C26-2
+Added Pin To Net: NetName=+5 Pin=C27-1
+Added Pin To Net: NetName=+5 Pin=C28-1
+Added Pin To Net: NetName=GND Pin=CONN1-1
+Added Pin To Net: NetName=VBUS Pin=CONN1-2
+Added Pin To Net: NetName=Net-VBR_1 Pin=CONN1-4
+Added Pin To Net: NetName=D- Pin=CONN1-5
+Added Pin To Net: NetName=D+ Pin=CONN1-6
+Added Pin To Net: NetName=D- Pin=CONN1-7
+Added Pin To Net: NetName=D+ Pin=CONN1-8
+Added Pin To Net: NetName=GPIO_21 Pin=CONN1-10
+Added Pin To Net: NetName=VBUS Pin=CONN1-11
+Added Pin To Net: NetName=GND Pin=CONN1-12
+Added Pin To Net: NetName=GND Pin=CONN1-12
+Added Pin To Net: NetName=GND Pin=CONN1-12
+Added Pin To Net: NetName=GND Pin=CONN1-12
+Added Pin To Net: NetName=GND Pin=CONN1-12
+Added Pin To Net: NetName=D1+ Pin=DD1-1
+Added Pin To Net: NetName=D1- Pin=DD1-2
+Added Pin To Net: NetName=D2+ Pin=DD1-3
+Added Pin To Net: NetName=D2- Pin=DD1-4
+Added Pin To Net: NetName=GND Pin=DD1-5
+Added Pin To Net: NetName=GPIO_20 Pin=DD1-6
+Added Pin To Net: NetName=D- Pin=DD1-7
+Added Pin To Net: NetName=D+ Pin=DD1-8
+Added Pin To Net: NetName=USB_SET Pin=DD1-9
+Added Pin To Net: NetName=3V3 Pin=DD1-10
+Added Pin To Net: NetName=NetC21_2 Pin=DD2-1
+Added Pin To Net: NetName=3V3 Pin=DD2-2
+Added Pin To Net: NetName=3V3 Pin=DD2-3
+Added Pin To Net: NetName=EN_MT3608 Pin=DD2-4
+Added Pin To Net: NetName=BTN Pin=DD2-5
+Added Pin To Net: NetName=GPIO_14 Pin=DD2-6
+Added Pin To Net: NetName=ESP_EN Pin=DD2-7
+Added Pin To Net: NetName=LED_G Pin=DD2-8
+Added Pin To Net: NetName=LED_B Pin=DD2-9
+Added Pin To Net: NetName=USB_SET Pin=DD2-10
+Added Pin To Net: NetName=3V3 Pin=DD2-11
+Added Pin To Net: NetName=SDA Pin=DD2-12
+Added Pin To Net: NetName=SCL Pin=DD2-13
+Added Pin To Net: NetName=STAT Pin=DD2-14
+Added Pin To Net: NetName=GPIO_5 Pin=DD2-15
+Added Pin To Net: NetName=GPIO_1 Pin=DD2-16
+Added Pin To Net: NetName=3V3 Pin=DD2-17
+Added Pin To Net: NetName=GPIO_11 Pin=DD2-18
+Added Pin To Net: NetName=NetCONN5_10 Pin=DD2-19
+Added Pin To Net: NetName=NetCONN5_4 Pin=DD2-20
+Added Pin To Net: NetName=GPIO_15 Pin=DD2-22
+Added Pin To Net: NetName=GPIO_16 Pin=DD2-23
+Added Pin To Net: NetName=GPIO_17 Pin=DD2-24
+Added Pin To Net: NetName=D2- Pin=DD2-25
+Added Pin To Net: NetName=D2+ Pin=DD2-26
+Added Pin To Net: NetName=GPIO_0 Pin=DD2-28
+Added Pin To Net: NetName=NetC21_1 Pin=DD2-29
+Added Pin To Net: NetName=NetC20_2 Pin=DD2-30
+Added Pin To Net: NetName=3V3 Pin=DD2-31
+Added Pin To Net: NetName=3V3 Pin=DD2-32
+Added Pin To Net: NetName=GND Pin=DD2-33
+Added Pin To Net: NetName=VBUS Pin=DD3-1
+Added Pin To Net: NetName=D1+ Pin=DD3-2
+Added Pin To Net: NetName=D1- Pin=DD3-3
+Added Pin To Net: NetName=STAT Pin=DD3-4
+Added Pin To Net: NetName=SCL Pin=DD3-5
+Added Pin To Net: NetName=SDA Pin=DD3-6
+Added Pin To Net: NetName=GND Pin=DD3-9
+Added Pin To Net: NetName=GPIO_13 Pin=DD3-10
+Added Pin To Net: NetName=GPIO_12 Pin=DD3-11
+Added Pin To Net: NetName=BAT Pin=DD3-13
+Added Pin To Net: NetName=BAT Pin=DD3-14
+Added Pin To Net: NetName=SYS Pin=DD3-15
+Added Pin To Net: NetName=SYS Pin=DD3-16
+Added Pin To Net: NetName=GND Pin=DD3-17
+Added Pin To Net: NetName=GND Pin=DD3-18
+Added Pin To Net: NetName=NetC18_2 Pin=DD3-19
+Added Pin To Net: NetName=NetC18_2 Pin=DD3-20
+Added Pin To Net: NetName=NetC11_2 Pin=DD3-21
+Added Pin To Net: NetName=REGN Pin=DD3-22
+Added Pin To Net: NetName=SDA Pin=DD4-5
+Added Pin To Net: NetName=SCL Pin=DD4-6
+Added Pin To Net: NetName=GND Pin=DD4-7
+Added Pin To Net: NetName=+5 Pin=DD4-8
+Added Pin To Net: NetName=3V3 Pin=DD5-2
+Added Pin To Net: NetName=TX_0 Pin=DD5-3
+Added Pin To Net: NetName=RX_0 Pin=DD5-4
+Added Pin To Net: NetName=GND Pin=DD5-5
+Added Pin To Net: NetName=GND Pin=DD5-8
+Added Pin To Net: NetName=3V3 Pin=DD5-11
+Added Pin To Net: NetName=NetC4_2 Pin=DD6-1
+Added Pin To Net: NetName=BAT_GND Pin=DD6-2
+Added Pin To Net: NetName=BAT_GND Pin=DD6-3
+Added Pin To Net: NetName=GND Pin=DD6-4
+Added Pin To Net: NetName=NetC18_2 Pin=L1-1
+Added Pin To Net: NetName=NetC21_1 Pin=Q1-1
+Added Pin To Net: NetName=ESP_EN Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=Net-VBR_1 Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=GPIO_14 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GPIO_20 Pin=R4-2
+Added Pin To Net: NetName=GPIO_21 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GPIO_12 Pin=R6-1
+Added Pin To Net: NetName=REGN Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GPIO_12 Pin=R7-2
+Added Pin To Net: NetName=STAT Pin=R8-1
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GPIO_13 Pin=R9-2
+Added Pin To Net: NetName=SDA Pin=R10-1
+Added Pin To Net: NetName=SCL Pin=R11-1
+Added Pin To Net: NetName=3V3 Pin=R11-2
+Added Pin To Net: NetName=BAT Pin=R12-1
+Added Pin To Net: NetName=NetC4_2 Pin=R12-2
+Added Pin To Net: NetName=NetDA2_3 Pin=R13-1
+Added Pin To Net: NetName=+5 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetDA2_3 Pin=R14-2
+Added Pin To Net: NetName=GPIO_8 Pin=R15-1
+Added Pin To Net: NetName=LED_G Pin=R15-2
+Added Pin To Net: NetName=GPIO_7 Pin=R16-1
+Added Pin To Net: NetName=LED_R Pin=R16-2
+Added Pin To Net: NetName=GPIO_6 Pin=R17-1
+Added Pin To Net: NetName=LED_B Pin=R17-2
+Added Pin To Net: NetName=GPIO_7 Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=GPIO_8 Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GPIO_6 Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=+5 Pin=VD1-1
+Added Pin To Net: NetName=NetDA2_1 Pin=VD1-2
+Added Pin To Net: NetName=GPIO_7 Pin=VT1-1
+Added Pin To Net: NetName=GPIO_8 Pin=VT2-1
+Added Pin To Net: NetName=GPIO_6 Pin=VT3-1
+Added Pin To Net: NetName=BTN Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=BAT Pin=X2-1
+Added Pin To Net: NetName=BAT_GND Pin=X2-2
+Added Pin To Net: NetName=+5 Pin=X3-1
+Added Pin To Net: NetName=RED Pin=X3-2
+Added Pin To Net: NetName=GREEN Pin=X3-3
+Added Pin To Net: NetName=BLUE Pin=X3-4
+Added Pin To Net: NetName=+5 Pin=X4-1
+Added Pin To Net: NetName=RED_1 Pin=X4-2
+Added Pin To Net: NetName=GREEN_1 Pin=X4-3
+Added Pin To Net: NetName=BLUE_1 Pin=X4-4
+Change Net Name : Old Net Name=GPIO_0 New Net Name=UART1_TX
+Change Net Name : Old Net Name=GPIO_1 New Net Name=UART0_TX
+Change Net Name : Old Net Name=GPIO_5 New Net Name=UART0_RX
+Change Net Name : Old Net Name=GPIO_6 New Net Name=NetR17_1
+Change Net Name : Old Net Name=GPIO_7 New Net Name=NetR16_1
+Change Net Name : Old Net Name=GPIO_8 New Net Name=NetR15_1
+Change Net Name : Old Net Name=GPIO_12 New Net Name=NetDD3_11
+Change Net Name : Old Net Name=GPIO_13 New Net Name=NetDD3_10
+Change Net Name : Old Net Name=GPIO_14 New Net Name=NetDD2_6
+Change Net Name : Old Net Name=GPIO_20 New Net Name=NetDD1_6
+Change Net Name : Old Net Name=GPIO_21 New Net Name=NetCONN1_10
+Change Net Name : Old Net Name=Net-VBR_1 New Net Name=NetCONN1_4
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC16_1
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetCONN5_4 New Net Name=INT_MPU6050
+Change Net Name : Old Net Name=NetCONN5_10 New Net Name=INT_BQ25895

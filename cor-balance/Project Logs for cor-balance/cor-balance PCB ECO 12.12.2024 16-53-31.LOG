@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=STAT Pin=DD7-14
+Added Pin To Net: NetName=STAT Pin=DD7-24

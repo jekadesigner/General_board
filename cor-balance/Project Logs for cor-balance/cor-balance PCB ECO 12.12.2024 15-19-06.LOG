@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=UART0_RX Pin=DD7-15
+Removed Pin From Net: NetName=UART0_TX Pin=DD7-16
+Removed Pin From Net: NetName=GPIO_15 Pin=DD7-22
+Added Component: Designator=3V3(Test_Point)
+Added Component: Designator=GND(Test_Point)
+Added Component: Designator=R29(RES-0603)
+Added Component: Designator=RX0(Test_Point)
+Added Component: Designator=RX1(Test_Point)
+Added Component: Designator=TX0(Test_Point)
+Added Component: Designator=TX1(Test_Point)
+Added Pin To Net: NetName=3V3 Pin=3V3-1
+Added Pin To Net: NetName=UART0_TX Pin=DD7-15
+Added Pin To Net: NetName=TX_0 Pin=DD7-16
+Added Pin To Net: NetName=VIBRO Pin=DD7-22
+Added Pin To Net: NetName=UART0_RX Pin=DD7-27
+Added Pin To Net: NetName=GPIO_15 Pin=DD7-28
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=UART0_TX Pin=R29-1
+Added Pin To Net: NetName=3V3 Pin=R29-2
+Added Pin To Net: NetName=UART0_TX Pin=RX0-1
+Added Pin To Net: NetName=UART0_RX Pin=RX1-1
+Added Pin To Net: NetName=TX_0 Pin=TX0-1
+Added Pin To Net: NetName=GPIO_15 Pin=TX1-1
+Change Net Name : Old Net Name=GPIO_15 New Net Name=NetDD7_28
+Change Net Name : Old Net Name=UART0_RX New Net Name=NetDD7_27
+Change Net Name : Old Net Name=UART0_TX New Net Name=BOOT
