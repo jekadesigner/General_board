@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=3V3 Pin=3V3-1
+Removed Pin From Net: NetName=3V3 Pin=C3-1
+Removed Pin From Net: NetName=3V3 Pin=C5-2
+Removed Pin From Net: NetName=3V3 Pin=C14-2
+Removed Pin From Net: NetName=3V3 Pin=C28-1
+Removed Pin From Net: NetName=3V3 Pin=DA1-5
+Removed Pin From Net: NetName=3V3 Pin=DD2-8
+Removed Pin From Net: NetName=3V3 Pin=DD3-2
+Removed Pin From Net: NetName=3V3 Pin=DD3-11
+Removed Pin From Net: NetName=3V3 Pin=DD6-10
+Removed Pin From Net: NetName=3V3 Pin=R5-2
+Removed Pin From Net: NetName=3V3 Pin=R6-2
+Removed Pin From Net: NetName=3V3 Pin=R17-2
+Add Component: Footprint Not Found DO-214-AC
+Added Component: Designator=R30(RES-0805)
+Added Component: Designator=R31(RES-0805)
+Added Component: Designator=VT8(SOT23-3)
+Added Component: Designator=VT9(SOT23-3)
+Added Pin To Net: NetName=3V3 Pin=VT8-3
+Added Pin To Net: NetName=GND Pin=VT9-2
+Change Net Name : Old Net Name=3V3 New Net Name=3V3_Ñ3
+Added Net: Name=+5V_1
+Added Pin To Net: NetName=3V3 Pin=3V3-1
+Added Pin To Net: NetName=3V3 Pin=C3-1
+Added Pin To Net: NetName=3V3 Pin=C5-2
+Added Pin To Net: NetName=3V3 Pin=C14-2
+Added Pin To Net: NetName=3V3 Pin=C28-1
+Added Pin To Net: NetName=3V3 Pin=DA1-5
+Added Pin To Net: NetName=3V3 Pin=DD2-8
+Added Pin To Net: NetName=3V3 Pin=DD3-2
+Added Pin To Net: NetName=3V3 Pin=DD3-11
+Added Pin To Net: NetName=3V3 Pin=DD6-10
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R17-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=NetD1_2 Pin=R30-1
+Added Pin To Net: NetName=NetD1_2 Pin=VT8-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=VT8-1
+Added Pin To Net: NetName=NetR30_2 Pin=VT9-3
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=NetR31_1 Pin=R31-1
+Added Net: Name=NetR31_1
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=VT9-1
+Added Net: Name=NetR31_2

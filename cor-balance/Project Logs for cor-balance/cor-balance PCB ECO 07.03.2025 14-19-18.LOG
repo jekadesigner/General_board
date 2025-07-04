@@ -1,0 +1,6 @@
+Add Component: Footprint Not Found DO-214-AC
+Added Component: Designator=R32(RES-0805)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=NetR31_2 Pin=R32-1
+Added Pin To Net: NetName=NetR30_2 Pin=R32-2

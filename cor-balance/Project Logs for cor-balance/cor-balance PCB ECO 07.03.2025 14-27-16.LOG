@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetR30_2 Pin=R32-2
+Add Component: Footprint Not Found DO-214-AC
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R32-2
